@@ -1,2 +1,2 @@
 # PICRUSt2
-Both Bash and R studio
+This project uses PICRUSt2 for functional pathway predictions using both Bash and RStudio
